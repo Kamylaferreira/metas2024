@@ -26,7 +26,7 @@ main {
 
 /*parte dos blocos onde ficam as metas*/
 .meta {
-    background-color: preto ;
+    background-color: azul claro ;
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 5px;
@@ -34,7 +34,7 @@ main {
 }
 
 footer {
-    background-color: azul claro ;
+    background-color: azul  ;
     color: #fff;
     text-align: center;
     padding: 10px 0;
