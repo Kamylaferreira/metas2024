@@ -8,14 +8,14 @@
 /*parte das letras e cor das metas*/
 body {
     font-family: Arial, sans-serif;
-    background-color: #000000;
-    color: #948a8a;
+    background-color: #279cc6;
+    color: #ba1dc2;
 }
 
 /*parte do titulo*/
 header {
-    background-color: azul ;
-    color: roxo escuro ;
+    background-color:aqua ;
+    color:aquamarine  ;
     padding: 10px 0;
     text-align: center;
 }
